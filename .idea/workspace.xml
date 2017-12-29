@@ -20,16 +20,16 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            <state relative-caret-position="391">
+              <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3008#3014#0" expanded="true" />
-                <element signature="e#3014#3020#0" expanded="true" />
-                <element signature="e#3020#3026#0" expanded="true" />
-                <element signature="e#3388#3394#0" expanded="true" />
-                <element signature="e#3394#3400#0" expanded="true" />
-                <element signature="e#3400#3406#0" expanded="true" />
+                <element signature="e#2958#2964#0" expanded="true" />
+                <element signature="e#2964#2970#0" expanded="true" />
+                <element signature="e#2970#2976#0" expanded="true" />
+                <element signature="e#3288#3294#0" expanded="true" />
+                <element signature="e#3294#3300#0" expanded="true" />
+                <element signature="e#3300#3306#0" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#p#8;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -145,12 +145,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514546937740</updated>
       <workItem from="1514546939849" duration="265000" />
-      <workItem from="1514552695983" duration="3810000" />
+      <workItem from="1514552695983" duration="3980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4075000" />
+    <option name="totallyTimeSpent" value="4245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="148" y="78" width="1396" height="1000" extended-state="0" />
@@ -192,12 +192,12 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3008#3014#0" expanded="true" />
-            <element signature="e#3014#3020#0" expanded="true" />
-            <element signature="e#3020#3026#0" expanded="true" />
-            <element signature="e#3388#3394#0" expanded="true" />
-            <element signature="e#3394#3400#0" expanded="true" />
-            <element signature="e#3400#3406#0" expanded="true" />
+            <element signature="e#2958#2964#0" expanded="true" />
+            <element signature="e#2964#2970#0" expanded="true" />
+            <element signature="e#2970#2976#0" expanded="true" />
+            <element signature="e#3288#3294#0" expanded="true" />
+            <element signature="e#3294#3300#0" expanded="true" />
+            <element signature="e#3300#3306#0" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#8;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -219,16 +219,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        <state relative-caret-position="391">
+          <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3008#3014#0" expanded="true" />
-            <element signature="e#3014#3020#0" expanded="true" />
-            <element signature="e#3020#3026#0" expanded="true" />
-            <element signature="e#3388#3394#0" expanded="true" />
-            <element signature="e#3394#3400#0" expanded="true" />
-            <element signature="e#3400#3406#0" expanded="true" />
+            <element signature="e#2958#2964#0" expanded="true" />
+            <element signature="e#2964#2970#0" expanded="true" />
+            <element signature="e#2970#2976#0" expanded="true" />
+            <element signature="e#3288#3294#0" expanded="true" />
+            <element signature="e#3294#3300#0" expanded="true" />
+            <element signature="e#3300#3306#0" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#8;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
