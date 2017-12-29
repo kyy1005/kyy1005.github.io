@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+            <state relative-caret-position="253">
+              <caret line="85" column="159" lean-forward="false" selection-start-line="85" selection-start-column="147" selection-end-line="85" selection-end-column="159" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#2958#2964#0" expanded="true" />
@@ -40,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="internship.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="internship.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/internship.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="434">
@@ -58,6 +58,7 @@
     <findStrings>
       <find>back to</find>
       <find>img</find>
+      <find>back to home</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -145,12 +146,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514546937740</updated>
       <workItem from="1514546939849" duration="265000" />
-      <workItem from="1514552695983" duration="3980000" />
+      <workItem from="1514552695983" duration="4149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4245000" />
+    <option name="totallyTimeSpent" value="4414000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="148" y="78" width="1396" height="1000" extended-state="0" />
@@ -207,20 +208,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/internship.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="55" column="96" lean-forward="false" selection-start-line="55" selection-start-column="96" selection-end-line="55" selection-end-column="96" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+        <state relative-caret-position="253">
+          <caret line="85" column="159" lean-forward="false" selection-start-line="85" selection-start-column="147" selection-end-line="85" selection-end-column="159" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#2958#2964#0" expanded="true" />
@@ -234,6 +225,16 @@
             <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#p#4;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/internship.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="55" column="96" lean-forward="false" selection-start-line="55" selection-start-column="96" selection-end-line="55" selection-end-column="96" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
