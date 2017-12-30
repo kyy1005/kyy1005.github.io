@@ -4,6 +4,8 @@ $( document ).ready(function() {
                 $("#about_scroll").fadeOut();   
                 $("#work_scroll").fadeOut();
                 $("#contact_scroll").fadeOut();
+                $("#intern_scroll").fadeOut();
+
 
                 $("#about").click(function(){
                     $("#index").fadeOut();
@@ -11,6 +13,11 @@ $( document ).ready(function() {
                     $('#about_left').addClass('animated slideInLeft');
                     $('#about_right').addClass('animated slideInRight');
                     });
+                $("#internship").click(function(){
+                    $("#index").fadeOut();
+                    $("#intern_scroll").fadeIn();
+                    $('#intern_left').addClass('animated slideInLeft');
+                });
                 $("#work").click(function(){
                     $("#index").fadeOut();
                     $("#work_scroll").fadeIn();

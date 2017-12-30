@@ -10,12 +10,11 @@ body{
 }
 
 .home-description{
-	font-style: italic;
-	font-weight: 600;
-	font-family: "Crimson";
+	font-weight: 100;
+	font-family: "Helvetica";
 	font-size: 19px;
     padding-top: 15px;
-    padding-bottom: 25px;
+    padding-bottom: 5px;
     line-height: 29px;
 
 }
@@ -40,10 +39,10 @@ body{
 
 @media (min-width: 778px)
 {
-		.main{
-			height: 100vh;
-		}
-
+		/*.main{*/
+			/*height: 100vh;*/
+		/*}*/
+f
 		.img-rabbit{
 			/*margin: 0 -15px;*/
 		}
@@ -53,7 +52,7 @@ body{
     	}
 
     	.info{
-			font-family: "Crimson";
+			font-family: "Helvetica Neue";
 			line-height: 28px;
 		    font-size: 16px;
 		    padding-top: 15px;
@@ -70,21 +69,24 @@ body{
 	width: 100%;
 }
 .btn-rabbit{
-	background-color: #fff;
-	color: #111;
-	font-style: italic;
+	background-color: #000;
+	color: #fff;
 	border: 1px solid #111;
 	border-radius: 0px !important;
 	transition: all 0.4s ease-in-out;
 	margin-bottom: 20px;
-	font-family: "Crimson";
+	font-family: "Helvetica Neue";
 	font-size: 13px;
 	}
 
+.tem:hover{
+	color: #fff
+}
+
 .btn-rabbit:hover{
-	color: #fff;
-	background-color: #bb9e7d;
-	border-color: #bb9e7d;}
+	color: #000;
+	background-color: #fff;
+	border-color: #000;}
 
 p{
 	color: #585757;
@@ -117,7 +119,7 @@ footer{
 
 .back{
     width: 170px;    
-    font-family: "Crimson";
+    font-family: "Helvetica Neue";
     font-size: 17px;
     font-style: italic;
     vertical-align: middle;
@@ -152,27 +154,29 @@ footer{
 	font-size:0;
 }
 .btn-group-vertical{
-    font-family: "Josefin Sans";    
+    font-family: "Helvetica Neue";
 }
 
 .about{
-	font-family: "Josefin Sans";
+	font-family: "Helvetica Neue";
 	/*margin-top: 35px;*/
 	/*margin-bottom: 25px;*/
 	font-size: 32px;
 	
 }
+
+
 .form-control{
 	font-style: italic;
 	border-radius: 0;
-	font-family: "Crimson";
+	font-family: "Helvetica Neue";
 	font-size: 16px;
 }
 
 .page-title{
 	
 	font-size: 32px;
-	font-family: "Josefin Sans";
+	font-family: "Helvetica Neue";
 }
 
 .fa-heartbeat{
@@ -208,7 +212,7 @@ footer{
 
 .submit{
 
-	font-family: "Crimson"
+	font-family: "Helvetica Neue"
 	font-size: 16px;
 }
 
@@ -218,7 +222,7 @@ footer{
 	font-size: 20px;
 	color: #3b3b3b;
 	line-height: 28px;
-	font-family: "Crimson";
+	font-family: "Helvetica Neue";
 	margin-top: 15px;
 	margin-bottom: 20px;
 	padding-right: 40px;
@@ -239,7 +243,7 @@ footer{
 	position: absolute;
 	font-size: 60px;
 	opacity: 0.1;
-	font-family: "Josefin Sans";
+	font-family: "Helvetica Neue";
 	text-transform: uppercase;
 	left: 0;
 	top: -5px;
